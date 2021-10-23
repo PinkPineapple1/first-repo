@@ -1,2 +1,2 @@
 # first-repo
-Trying out git
+Trying out git.
